@@ -31,88 +31,63 @@ copyright = "© Zhang Jun"
     weight = 2
 
   [[menu.main]]
-    name = "Week-01"
-    url = "/week01/"
+    name = "Chapter01"
+    url = "/Chapter01/"
     weight = 3
 
   [[menu.main]]
-    name = "Week-02"
-    url = "/week02/"
+    name = "Chapter02 P1"
+    url = "/Chapter02P1/"
     weight = 4
 
   [[menu.main]]
-    name = "Week-03"
-    url = "/week03/"
+    name = "Chapter02 P2"
+    url = "/Chapter02P2/"
     weight = 5
 
   [[menu.main]]
-    name = "Week-04"
-    url = "/week04/"
+    name = "Chapter03 P1"
+    url = "/Chapter03P1/"
     weight = 6
 
   [[menu.main]]
-    name = "Week-05"
-    url = "/week05/"
+    name = "Chapter03 P2"
+    url = "/Chapter03P2/"
     weight = 7
 
   [[menu.main]]
-    name = "Week-06"
-    url = "/week06/"
+    name = "Chapter04 P1"
+    url = "/Chapter04P1/"
     weight = 8
 
   [[menu.main]]
-    name = "Week-07"
-    url = "/week07/"
+    name = "Chapter04 P2"
+    url = "/Chapter04P2/"
     weight = 9
 
   [[menu.main]]
-    name = "Week-08"
-    url = "/week08/"
+    name = "Chapter07"
+    url = "/Chapter07/"
     weight = 10
 
   [[menu.main]]
-    name = "Week-09"
-    url = "/week09/"
+    name = "Chapter08"
+    url = "/Chapter08/"
     weight = 11
 
   [[menu.main]]
-    name = "Week-10"
-    url = "/week10/"
+    name = "Chapter09"
+    url = "/Chapter09/"
     weight = 12
 
   [[menu.main]]
-    name = "Week-11"
-    url = "/week11/"
+    name = "Chapter11"
+    url = "/Chapter11/"
     weight = 13
 
   [[menu.main]]
-    name = "Week-12"
-    url = "/week12/"
+    name = "Chapter13"
+    url = "/Chapter13/"
     weight = 14
-
-  [[menu.main]]
-    name = "Week-13"
-    url = "/week13/"
-    weight = 15
-
-  [[menu.main]]
-    name = "Week-14"
-    url = "/week14/"
-    weight = 16
-
-  [[menu.main]]
-    name = "Week-15"
-    url = "/week15/"
-    weight = 17
-
-  [[menu.main]]
-    name = "Week-16"
-    url = "/week16/"
-    weight = 18
-
-  [[menu.main]]
-    name = "Week-17"
-    url = "/week17/"
-    weight = 19
 
   

@@ -52,24 +52,20 @@ Each week, we meet for **90 minutes**. This course emphasizes **hands-on learnin
 
 | **Week** | **Topic** | **Reading** | **Class Activities** |
 |---|---|---|---|
-| 1️⃣ | 🧠 **What is Psycholinguistics?** | *Ch. 1 (pp. 1–29)* – An Introduction to Language Science | 📝 Language myth quiz · 📊 Student survey · 💬 Interactive discussion |
-| 2️⃣ | 🔊 **Speech Planning & Errors I** | *Ch. 2 (pp. 37–51)* – Speech Production and Comprehension | 🗂️ Speech error analysis · 🧠 TOT sharing · 🎯 Naming tasks |
-| 3️⃣ | 🔊 **Speech Planning & Errors II** | *Ch. 2 (pp. 37–51)* – continued | 📓 Error diary mini-study · 🔍 Self-monitoring & repair analysis · 🗣️ Articulation drills |
-| 4️⃣ | 👂 **Speech Perception & the Brain** | *Ch. 2 (pp. 51–71)* – Speech Perception | 🎥 McGurk effect video · 🎤 Coarticulation demos · 📊 Theory comparisons |
-| 5️⃣ | 📖 **Lexical Access** | *Ch. 3 (pp. 79–113)* – Word Processing | ⏱️ Lexical decision task demo · 🌐 Semantic priming |
-| 6️⃣ | 🧠 **Word Meaning & the Brain** | *Ch. 3 (pp. 113–129)* – Word Processing | 🌀 Word ambiguity resolution · 🔗 Semantic networks · 💬 Class discussion |
-| 7️⃣ | 🧩 **Sentence Processing I** | *Ch. 4 (pp. 141–154)* – Sentence Processing | 🧩 Garden-path sentence game · 🛠️ Parsing strategies |
-| 8️⃣ | 🧩 **Sentence Processing II** | *Ch. 4 (pp. 155–181)* – Sentence Processing | 🌀 Ambiguity resolution · 🧠 Memory · 🛠️ Parsing practice |
-| 9️⃣ | 🎭 **Metaphor & Idioms** | *Ch. 7 (pp. 267–285)* – Nonliteral Language Processing | 🎨 Metaphor generation · 🧩 Idiom matching task |
-| 🔟 | 💬 **Pragmatics and Dialogue I** | Ch. 8 (pp. 305–315, selected): Gricean Maxims; Dialogue is Interactive; Common Ground; Audience Design. We will emphasize how conceptual pacts form and why audience design sometimes succeeds (and sometimes doesn’t). | 🎭 Gricean maxims skits · 🗣️ Conversation roleplay |
-| 11️⃣ | 💬 **Pragmatics and Dialogue II** | Ch. 8 (pp. 315–321, selected): Egocentric Production; Effects of Listeners’ Perspective-Taking on Comprehension; embedded turn-taking/backchannels and repair/editing terms; close with Summary/Test Yourself. | 🔍 Turn-taking & repair corpus analysis · 🤝 Politeness/implicature cases |
-| 12️⃣ | 👶 **Language Development I** | *Ch. 9 (pp. 325–344)* – Language Development | 👂 Infant segmentation · 🎶 Motherese analysis · 🧠 Word learning discussion |
-| 13️⃣ | 🧠 **Language Development II** | *Ch. 9 (pp. 344–360)* – Language Development | 🎲 Morphological games · 🔍 Bootstrapping simulation |
-| 14️⃣ | 🌐 **Bilingual Minds I** | *Ch. 11 (pp. 415–431)* – Bilingual Language Processing | 🎯 Stroop task demo · 🧠 Bilingual activation discussion |
-| 15️⃣ | 🌐 **Bilingual Minds II** | *Ch. 11 (pp. 415–431)* – continued | 🔄 Code-switching analysis · 🧠 Cognitive control in bilingualism · 🖥️ Brain imaging review |
-| 16️⃣ | 🧠 **Aphasia: The Breakdown of Language** | *Ch. 13 (pp. 485–501)* – Aphasia | 📺 Aphasia case studies · 🧠 Lesion mapping · 🏥 Group diagnosis |
-| 17️⃣ | 🎓 **Student Project Symposium & Review I** | No assigned reading | 📊 Group poster/short presentations · 🤝 Peer feedback · 🧠 Review games |
-| 18️⃣ | 🎓 **Student Project Symposium & Review II** | No assigned reading | 🗣️ Continuation of presentations · ❓ Cumulative Q&A · 🏆 Final review |
+| 1 | 🧠 **What is Psycholinguistics?** | *Ch. 1* – An Introduction to Language Science | Psycholinguistics definition; Language design features; Grammar types (descriptive/prescriptive); Nonhuman communication limits; Language-thought relation |
+| 2️-3 | 🔊 **Speech Planning & Errors I** | *Ch. 2* – Speech Production |  Speech production stages; WEAVER++ model steps; Speech errors (slips/TOT); Lemma theory critique; Foreign Accent Syndrome |
+| 4 | 🔊 **Speech Planning & Errors II** | *Ch. 2* – Speech perception | Speech perception challenges; Coarticulation effects; Motor Theory of perception; General Auditory approach; Long-distance dependencies |
+| 5 | 👂 **Speech Perception & the Brain** | *Ch. 3 Part 1* | Word form hierarchy;Morpheme types； Lexical semantics (sense/reference)； Meaning representation theories; Embodied semantics |
+| 6 | 📖 **Lexical Access** | *Ch. 3 Part 2* |  Lexical access models; Ambiguity resolution; Long-distance parsing; Neural basis of lexicon; Localized/distributed semantics |
+| 7️ | 🧩 **Sentence Processing I** | *Ch. 4 Part 1*  |  Sentence parsing basics; Garden path sentences; Minimal Attachment strategy; Late Closure principle; Parsing constraint types |
+| 8️ | 🧩 **Sentence Processing II** | *Ch. 4 Part 2* | Reversible sentence parsing; Thematic role assignment; Parsing deficits in aphasia; Neural correlates of parsing; Cross-linguistic parsing differences |
+| 9️ | 🎭 **Metaphor & Idioms** | *Ch. 7* – Nonliteral Language Processing | Nonliteral meaning types; Metaphor comprehension; Idiom processing models; Irony/sarcasm detection; Neural basis of nonliteral use |
+| 10-11 | 💬 **Pragmatics and Dialogue** | *Ch. 8*  | Grice’s maxims; Implicature generation; Discourse coherence; Anaphora resolution; Turn-taking in dialogue |
+| 12-13 | 👶 **Language Development** | *Ch. 9* | L1 acquisition stages; Phonological development; Vocabulary growth patterns; Syntactic development milestones; Bilingual child language learning |
+| 14-15 | 🌐 **Bilingual Minds** | *Ch. 11* |Bilingualism definition; Language competition; RHM model (bilingual); Bilingual control mechanisms; L2 learning techniques |
+| 16 | 🧠 **Aphasia: The Breakdown of Language** | *Ch. 13* – Aphasia | Aphasia definition; Left hemisphere dominance; Broca’s/Wernicke’s aphasia; WLG model; Aphasia treatments |
+| 17 | 🎓 **Student Project Symposium & Review I** | No assigned reading | 📊 Group poster/short presentations · 🤝 Peer feedback  |
+| 18 | 🎓 **Student Project Symposium & Review II** | No assigned reading | 🗣️ Continuation of presentations · ❓ Cumulative Q&A · 🏆 Final review |
                  |
 
 

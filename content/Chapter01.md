@@ -1,7 +1,8 @@
 +++
-title = "🧠 Week 1: What is Psycholinguistics?"
+title = "Chapter 1 What is Psycholinguistics?"
 date = "2025-04-25T10:03:44-04:00"
 draft = false
+weight = 3
 +++
 
 
@@ -28,47 +29,96 @@ By the end of Week 1, you should be able to:
 
 ---
 
-## ❗ Key Issues
-
-### 1) What is Psycholinguistics?
-Psycholinguistics studies **how language is processed and represented in the mind**—how we comprehend, produce, and acquire language. It draws on **linguistics (structure)**, **cognitive psychology (mental processes)**, **neuroscience (brain systems)**, and **philosophy (meaning & thought)**.    
+# Chapter 1 Lecture Notes: An Introduction to Language Science  
+*Key Threads: Language Characteristics, Grammar/Origins/Nonhuman Communication, Language & Thought, Processing System Preview*  
 
 
-**Guiding questions:** How do we understand and produce speech? How do children acquire language? What brain areas support language? Can animals learn language?
+## 1. What is Psycholinguistics?  
+Psycholinguistics studies the **mental and neural processes** behind language use—how we *know* language, which cognitive skills support it, and how it differs from nonhuman communication.  
+
+### Foundational Components  
+- **Lexicon**: Long-term memory for words (e.g., *dog* = sound /dɔɡ/ + meaning “four-legged pet”).  
+- **Grammar**: Mental rules for combining symbols to express meaning (e.g., *The cat chased the mouse* = structured to show “cat = agent, mouse = patient”).  
+
+### Critical Distinction  
+- **Descriptive Grammar**: Rules speakers *actually use* (e.g., English adjective-noun order: *red car*).  
+- **Prescriptive Grammar**: Social “rules” (e.g., “don’t end sentences with prepositions”)—not the focus of psycholinguistics (we model *mental* grammar).  
+
+
+## 2. Language Characteristics (Design Features)  
+Core features that define human language (apply to spoken *and* signed languages):  
+
+| Feature               | Definition                                                                 | Example                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Semanticity**       | Signals map to meanings (words, sentences).                                 | *Dog* (English), *perro* (Spanish), 狗 (Chinese) all mean the same concept. |
+| **Arbitrariness**     | Form-meaning links are conventional (not iconic).                           | Onomatopoeia varies: *woof* (English), *wan-wan* (Japanese).             |
+| **Discreteness**      | Uses contrastive units (phonemes, morphemes) that change meaning.           | /b/ vs. /p/ → *bat* vs. *pat*; signed languages contrast handshape.     |
+| **Displacement**      | Talk about non-present things/times/hypotheticals.                          | “I’ll graduate in 2026,” “If I had a dragon…”                            |
+| **Duality of Patterning** | Meaningless units (sounds) combine into meaningful words; words into sentences. | /k/+/æ/+/t/ → *cat* (meaningful); *cat sat* (more meaning).              |
+| **Generativity**      | Finite rules create infinite new sentences (via recursion).                 | “The book that the student read” → “The book that the student who the teacher praised read…” |
+
+
+## 3. Grammar, Language Origins, & Nonhuman Communication  
+
+### A. Grammar: Descriptive vs. Prescriptive  
+- **Descriptive**: Mental rules for structure (e.g., English = adjective-noun; French = noun-adjective: *vin rouge* = “red wine”).  
+- **Prescriptive**: Social etiquette (e.g., “don’t split infinitives”)—not reflective of how speakers naturally use language.  
+
+
+### B. Nonhuman Communication  
+Animals have meaningful signals but lack **humanlike grammar**:  
+
+| Species/Study         | What They Do Well                                 | What They Lack                                                          |
+|-----------------------|---------------------------------------------------|-------------------------------------------------------------------------|
+| Vervet/Diana Monkeys  | Calls map to predators (e.g., “leopard!” = run).  | No combinatorial rules (can’t say “big leopard by the river”).          |
+| Nim Chimpsky (ASL)    | Uses signs for requests (*more banana*).           | No hierarchy/recursion; limited two-sign patterns.                     |
+| Kanzi (Bonobo)        | Understands spoken instructions; uses lexigrams.  | No open-ended syntax (can’t create novel complex sentences).            |
+
+**Key Takeaway**: Symbol use ≠ language. Human language requires **productivity** (new sentences) and **rule-governed combination** (grammar).  
+
+
+### C. Language Origins: Continuity vs. Discontinuity  
+- **Continuity (Gradual)**: Language evolved from animal communication (gestures, calls) + cultural learning (turn-taking, shared goals).  
+- **Discontinuity (Leap)**: Language relies on unique human traits (e.g., recursion) or neural changes (descended larynx, fine motor control).  
+- **Synthesis**: Both biological (neural biases) and cultural (conventionalization) factors shaped language (e.g., Nicaraguan Sign Language, where children created grammar from limited input).  
+
+
+## 4. Language & Thought (Whorfian Hypotheses)  
+How language influences (but does not control) thought:  
+
+| Hypothesis               | Claim                                                                 | Status                                                                 |
+|--------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| **Linguistic Determinism** | Language *determines* thought (e.g., no word for “blue” = can’t see blue). | Rejected—perception/thought exist without language.                   |
+| **Linguistic Relativity** | Language *influences* attention/memory (e.g., color categories, space). | Supported (task-specific):<br>- Color: Faster decisions at lexical boundaries.<br>- Space: “Left/right” vs. “North/South” biases memory. |
+
+**Takeaway**: Language “nudges” cognition (e.g., counting systems affect exact number tasks) but does not rewire perception.  
+
+
+## 5. Preview: Language Processing System  
+### A. Production (Meaning → Sound/Sign)  
+1. **Conceptualization**: Plan your message (e.g., “tell someone to pass the salt”).  
+2. **Lemma Selection**: Pick words with syntactic features (e.g., *pass* = verb, needs an object).  
+3. **Grammatical Encoding**: Build structure (e.g., *You pass the salt*).  
+4. **Phonological Encoding**: Retrieve sound forms (/pæs/, /ðə/, /sɔlt/) and plan speech movements.  
+5. **Articulation**: Speak/sign; movements overlap (coarticulation) for fluency.  
+6. **Monitoring**: Check for errors (e.g., “uh—I mean salt, not pepper”).  
+
+
+### B. Comprehension (Sound/Sign → Meaning)  
+1. **Perception**: Turn continuous sound/sign into units (e.g., /pæs/ → *pass*).  
+2. **Lexical Access**: Activate word candidates (e.g., *pass* vs. *past*).  
+3. **Parsing**: Build structure incrementally (e.g., “The old man… ” → initially think *old* describes *man*).  
+4. **Interpretation**: Combine meanings + context (e.g., “pass the salt” = request, not “move past the salt”).  
+5. **Discourse Integration**: Link to prior conversation (e.g., “it” = salt from earlier).  
 
 ---
 
-### 2) Hockett’s Design Features of Language
-| Feature | Definition | Example |
-|---|---|---|
-| **Semanticity** | Signals carry specific meanings | “Dog” / 狗 refers to a specific animal |
-| **Arbitrariness** | No inherent link between form & meaning | “Dog” ≠ “gǒu” ≠ “perro” |
-| **Discreteness** | Distinct units compose language | English /b/ vs /p/; Mandarin tones 妈/麻/马/骂 |
-| **Displacement** | Talk about things not here/now | “I was in Paris last year” |
-| **Duality of Patterning** | Meaningless sounds combine into meaningful words | /k/ + /æ/ + /t/ → “cat” |
-| **Generativity** | Finite rules → infinite sentences | “The cat that chased the rat …” |
-
----
-
-### 3) Descriptive vs. Prescriptive Grammar
-- **Descriptive grammar**: What speakers actually say and understand in real life.
-- **Prescriptive grammar**: Rules about what people *should* say in formal contexts.
-- Why this matters: Psycholinguistics seeks to explain **mental grammar** and real usage, so descriptive patterns are crucial.
-
----
-
-### 4) Can Animals Use Language?
-Case studies:
-- **Nim Chimpsky** (ASL-trained chimp): mostly **requests**, limited combinations.
-- **Kanzi** (bonobo, lexigrams): understands many **spoken English** commands.
-Takeaway: Impressive communication, but **limited syntax, recursion, and generativity** compared to humans.
-
----
-
-### 5) Evolution of Language: Continuity vs. Discontinuity
-- **Continuity**: Human language **evolved gradually** from simpler systems.
-- **Discontinuity**: Language is a **qualitative leap**, uniquely human, requiring new cognitive/biological mechanisms.
-Evidence includes ape communication, vocal tract/brain adaptations, and cultural emergence of grammar (e.g., creoles, sign languages).
+## Quick Review Questions  
+1. What makes language “generative”?  
+2. How do nonhuman communication systems differ from human language?  
+3. What’s the difference between descriptive and prescriptive grammar?  
+4. Give an example of linguistic relativity.  
+5. What step in production involves picking a word’s syntactic features?
 
 ---
 
@@ -79,23 +129,8 @@ Evidence includes ape communication, vocal tract/brain adaptations, and cultural
 - **Descriptive Grammar 描写语法** / **Prescriptive Grammar 规定语法**  
 - **Recursion 递归** — embedding structures (clauses within clauses)
 
----
-
-## ✅ Before Class (Prep Checklist)
-1. **Read** Ch. 1 (pp. 1–28). As you read, mark examples of each **design feature**.
 
 
----
-
-## 🏫 In-Class Plan (90 min)
-- **📝 Language Myths Quiz (10')** — Pairs choose T/F; quick justifications.
-- **📊 Student Survey (10')** — Goals, examples from EN/CN, prior linguistics exposure.
-- **💬 Mini-Lecture (25')** — Hockett’s features with English–Chinese examples; quick cold calls.
-- **🧩 Descriptive vs. Prescriptive (15')** — Decide which is “correct” descriptively vs prescriptively:
-  - “Who did you give the book to?” / “To whom did you give the book?”
-  - “She be singing.” (AAVE habitual)
-- **🐒 Case Study Huddle (15')** — Nim vs. Kanzi: does this count as “language”? Why / why not?
-- **🧠 Exit Ticket (5')** — One surprise + one question.
 
 ---
 
@@ -183,33 +218,6 @@ Children conventionalize limited input (pidgin/homesign) into a system with **wo
 
 
 
-### 🗣️ What to Hand In 
-
-1. **Two completed checklists** (choose any **two** cases you found most interesting).  
-2. A **one-paragraph verdict**:  
-   - Which cases you judged **Language** vs. **Not Language**, and **why** (cite ≥2 features + a grammar argument).  
-   - Which **origins view** your evidence favors (continuity or discontinuity), with one sentence of reasoning.
-
-
-
-### 💬 Discussion Prompts (for the debrief)
-
-- What single observation would **most convincingly** show **grammar** in an ape system?  
-- Why doesn’t **symbol use** (naming objects) by itself count as **language**?  
-- How do **creoles/new sign languages** inform the origins debate?  
-- Which feature was **hardest** to diagnose? Why?
-
-
-
-
-
----
-
-## 🏠 Homework
-- Re-read key sections (design features; grammar; apes).
-- *Test Yourself* (Ch. 1): **Q1** (features), **Q2** (grammar), **Q4** (recursion), **Q6** (animal language).
-- **Think About It (~150 words)**:  
-  *Imagine a new primate species. What behaviors would convince you they have language?* Be specific about **syntax**, **recursion**, **displacement**, and **generativity**.
 ---
 
 ## 🧩 Mini-FAQ
