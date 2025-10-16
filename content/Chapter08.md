@@ -9,6 +9,10 @@ weight = 11
 # Chapter 8 Lecture Notes: Dialogue Processing  
 *Key Focus: Collaboration, Gricean Maxims, Common Ground, & Audience Design*  
 
+- **Traxler (2nd ed.), Chapter 8**
+[Link to Chapter 8](/psycholinguistics/pdfs/C8.pdf)  
+
+
 ## Overview
 This chapter examines dialogue as a collaborative joint activity where speakers and listeners coordinate to achieve shared goals. We explore the mechanisms that enable smooth conversation, including Gricean maxims, turn-taking, common ground building, and audience design. The chapter explains how we manage the complexities of real-time interaction and why successful dialogue requires mutual adaptation between conversation partners.
 

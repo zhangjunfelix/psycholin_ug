@@ -9,6 +9,8 @@ weight = 10
 # Chapter 7 Lecture Notes: Nonliteral Language Processing  
 *Key Focus: Types of Nonliteral Language, Metaphor Theories, & Neural Bases*  
 
+- **Traxler (2nd ed.), Chapter 7**
+[Link to Chapter 7](/psycholinguistics/pdfs/C7.pdf)  
 
 ## Overview
 This chapter examines how we process nonliteral language - expressions where literal meaning differs from intended meaning. We explore various types of nonliteral language (indirect requests, idioms, metaphors, irony), compare major theories of metaphor comprehension, and investigate the neural basis of nonliteral processing. The chapter explains why we use nonliteral expressions and how they enhance social interaction and communication efficiency.

@@ -5,6 +5,11 @@ draft = false
 weight = 8
 +++
 
+- **Traxler (2nd ed.), Chapter 4**
+
+[Link to Chapter 4](/psycholinguistics/pdfs/C4.pdf)  
+
+
 
 
 # Chapter 4 Lecture Notes: Sentence Processing  

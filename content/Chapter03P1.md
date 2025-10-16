@@ -5,6 +5,13 @@ draft = false
 weight = 6
 +++
 
+## 📖 Required Reading
+
+- **Traxler (2nd ed.), Chapter 3**
+
+[Link to Chapter 3](/psycholinguistics/pdfs/C3.pdf)  
+
+
 
 
 # Chapter 3: Word Processing (Part I)
