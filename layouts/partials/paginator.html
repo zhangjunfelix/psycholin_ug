@@ -1,0 +1,20 @@
+{{/* layouts/partials/paginator.html */}}
+{{/* Try to reuse an existing paginator on the page, or make one. */}}
+{{ $p := .Paginator }}
+{{ if not $p }}
+  {{/* If no paginator was created earlier, paginate the current list. */}}
+  {{ $pages := .Pages }}
+  {{ if not $pages }}
+    {{/* Fallback for home page: use the chosen sections or all regular pages */}}
+    {{ $pages = (where .Site.RegularPages "Type" "in" (or .Site.Params.mainSections (slice "post"))) }}
+  {{ end }}
+  {{ $p = (.Paginate $pages) }}
+{{ end }}
+
+{{ if gt $p.TotalPages 1 }}
+<nav class="pagination" aria-label="pagination">
+  {{ if $p.HasPrev }}<a href="{{ $p.Prev.URL }}">← Newer</a>{{ end }}
+  <span>Page {{ $p.PageNumber }} of {{ $p.TotalPages }}</span>
+  {{ if $p.HasNext }}<a href="{{ $p.Next.URL }}">Older →</a>{{ end }}
+</nav>
+{{ end }}
