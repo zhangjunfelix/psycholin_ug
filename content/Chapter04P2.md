@@ -6,7 +6,6 @@ weight = 9
 +++
 
 
-
 # Chapter 4 Lecture Notes: Sentence Processing II  
 *Key Focus: Argument Structure, Parsing Model Limitations, & Long-Distance Dependencies*  
 
