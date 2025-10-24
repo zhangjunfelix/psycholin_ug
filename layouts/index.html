@@ -1,0 +1,18 @@
+{{/* Use the theme's base template and replace the main block */}}
+{{ define "main" }}
+
+  {{/* Pick which sections appear on the homepage; falls back to "post" */}}
+  {{ $sections := or .Site.Params.mainSections (slice "post") }}
+
+  {{/* Build a paginator over the chosen sections */}}
+  {{ $p := .Paginate (where .Site.RegularPages "Type" "in" $sections) }}
+
+  {{/* Render each page using its summary template (theme-provided) */}}
+  {{ range $p.Pages }}
+    {{ .Render "summary" }}
+  {{ end }}
+
+  {{/* Use Hugo's internal pagination UI (no custom template needed) */}}
+  {{ template "_internal/pagination.html" . }}
+
+{{ end }}
