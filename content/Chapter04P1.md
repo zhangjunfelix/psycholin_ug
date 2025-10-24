@@ -16,6 +16,7 @@ weight = 8
 - **Chapter 4** from *Introduction to Psycholinguistics: Understanding Language Science* (2nd ed.) by Matthew Traxler.    
 [Link to Chapter 4](/psycholinguistics/pdfs/C4.pdf)
 
+
 ---
 
 ## Overview
