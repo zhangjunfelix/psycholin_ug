@@ -21,6 +21,7 @@
 					<a class="readmore" href="{{ .RelPermalink }}">Read more ⟶</a>
 				</section>
 				{{ end }}
+				{{ template "partials/paginator.html" . }}
 			</main>
 			{{ partial "footer.html" . }}
 		</div>
