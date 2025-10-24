@@ -8,14 +8,15 @@ weight = 8
 
 
 
-
 # Chapter 4 Lecture Notes: Sentence Processing  
 *Key Focus: Structural Ambiguity, Parsing Models, & Constraint-Based Processing*  
 
-**Traxler (2nd ed.), Chapter 4**
-[Link to Chapter 4](/psycholinguistics/pdfs/C4.pdf)  
 
+## 📖 Required Reading
+- **Chapter 4** from *Introduction to Psycholinguistics: Understanding Language Science* (2nd ed.) by Matthew Traxler.    
+[Link to Chapter 4](/psycholinguistics/pdfs/C4.pdf)
 
+---
 
 ## Overview
 This chapter examines how we convert linear word sequences into hierarchical sentence structures, focusing on how we resolve structural ambiguities in real time. We compare competing models of sentence parsing - from syntax-first garden path theory to interactive constraint-based approaches - and explore how multiple cues (syntax, semantics, context, frequency) guide our interpretation of sentences. The chapter explains why certain sentences lead to processing difficulties and how we recover from misinterpretations.
