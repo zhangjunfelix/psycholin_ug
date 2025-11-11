@@ -6,7 +6,7 @@ weight = 7
 +++
 
 
-# Chapter 3 Lecture Notes: Word Processing (Part II)  
+# Chapter 3: Word Processing (Part II)  
 *Key Focus: Lexical Access, Ambiguity Resolution, & Neural Bases*  
 
 

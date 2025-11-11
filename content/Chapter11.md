@@ -6,7 +6,7 @@ weight = 13
 +++
 
 
-# Chapter 11 Lecture Notes: Bilingual Language Processing  
+# Chapter 11: Bilingual Language Processing  
 *Key Focus: Language Representation, Control, Executive Function, & L2 Learning*  
 
 

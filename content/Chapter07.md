@@ -6,7 +6,7 @@ weight = 10
 +++
 
 
-# Chapter 7 Lecture Notes: Nonliteral Language Processing  
+# Chapter 7: Nonliteral Language Processing  
 *Key Focus: Types of Nonliteral Language, Metaphor Theories, & Neural Bases*  
 
 

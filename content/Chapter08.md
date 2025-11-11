@@ -6,7 +6,7 @@ weight = 11
 +++
 
 
-# Chapter 8 Lecture Notes: Dialogue Processing  
+# Chapter 8: Dialogue Processing  
 *Key Focus: Collaboration, Gricean Maxims, Common Ground, & Audience Design*  
 
 - **Traxler (2nd ed.), Chapter 8**

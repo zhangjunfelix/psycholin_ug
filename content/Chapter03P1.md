@@ -5,8 +5,6 @@ draft = false
 weight = 6
 +++
 
-## 📖 Required Reading
-
 
 
 ## 📖 Required Reading

@@ -1,5 +1,5 @@
 +++
-title = "Week 13: 🧠 Language Development II"
+title = "Chapter 13: Aphasia"
 date = "2025-06-12T10:03:44-04:00"
 draft = false
 weight = 14
@@ -7,7 +7,7 @@ weight = 14
 
 
 
-# Chapter 13 Lecture Notes: Aphasia  
+# Chapter 13 Aphasia  
 *Key Focus: Types of Aphasia, Brain-Language Links, Parsing Deficits, & Treatment*  
 
 

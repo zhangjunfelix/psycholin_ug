@@ -8,7 +8,7 @@ weight = 8
 
 
 
-# Chapter 4 Lecture Notes: Sentence Processing  
+# Chapter 4: Sentence Processing  
 *Key Focus: Structural Ambiguity, Parsing Models, & Constraint-Based Processing*  
 
 

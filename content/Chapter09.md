@@ -6,7 +6,7 @@ weight = 12
 +++
 
 
-# Chapter 9 Lecture Notes: Language Development in Infancy and Early Childhood  
+# Chapter 9: Language Development in Infancy and Early Childhood  
 *Key Focus: Prenatal Learning, Phoneme Perception, Segmentation, Word Meaning, & Syntax*  
 
 
