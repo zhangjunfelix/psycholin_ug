@@ -10,6 +10,10 @@ weight = 9
 *Key Focus: Argument Structure, Parsing Model Limitations, & Long-Distance Dependencies*  
 
 
+## 📖 Classroom Notes 
+[Link to Noyrd](/psycholinguistics/pdfs/Chapter4P2notes.pdf)
+
+
 ## Overview  
 This chapter extends sentence processing by addressing three critical topics:  
 1. **Argument Structure Hypothesis (ASH)**: Solves the "storage dilemma" of constraint-based models by distinguishing mandatory verb arguments (core partners) from optional adjuncts (extra details).  

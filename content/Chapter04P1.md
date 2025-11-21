@@ -17,6 +17,10 @@ weight = 8
 [Link to Chapter 4](/psycholinguistics/pdfs/C4.pdf)
 
 
+## 📖 Classroom Notes 
+[Link to Noyrd](/psycholinguistics/pdfs/Chapter4P1notes.pdf)
+
+
 ---
 
 ## Overview
