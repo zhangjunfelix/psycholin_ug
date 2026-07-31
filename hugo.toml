@@ -1,93 +1,91 @@
-baseURL = "https://zjpsycholin.github.io/psycholinguistics/"
+baseURL = "https://zhangjunfelix.github.io/psycholinguistics/"
 languageCode = "en-us"
 title = "Introduction to Psycholinguistics"
 theme = "archie"
 copyright = "© Zhang Jun"
 
-
-
-
 [markup]
-  [markup.highlight]
-    noClasses = false
-  [markup.goldmark.renderer]
-    unsafe = true
+[markup.highlight]
+noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
-  mode = "auto"
-  useCDN = false
-  subtitle = ""
-  katex = true
+mode = "auto"
+useCDN = false
+subtitle = ""
+katex = true
 
-[menu]
-  [[menu.main]]
-    name = "Welcome"
-    url = "/"
-    weight = 1
+# Main navigation
 
-  [[menu.main]]
-    name = "Syllabus"
-    url = "/syllabus/"
-    weight = 2
+[[menu.main]]
+name = "Welcome"
+pageRef = "/"
+weight = 1
 
-  [[menu.main]]
-    name = "Chapter01"
-    url = "/Chapter01/"
-    weight = 3
+[[menu.main]]
+name = "Syllabus"
+pageRef = "/syllabus"
+weight = 2
 
-  [[menu.main]]
-    name = "Chapter02 P1"
-    url = "/Chapter02P1/"
-    weight = 4
+[[menu.main]]
+name = "Chapter 01"
+pageRef = "/Chapter01"
+weight = 3
 
-  [[menu.main]]
-    name = "Chapter02 P2"
-    url = "/Chapter02P2/"
-    weight = 5
+[[menu.main]]
+name = "Chapter 02, Part 1"
+pageRef = "/Chapter02P1"
+weight = 4
 
-  [[menu.main]]
-    name = "Chapter03 P1"
-    url = "/Chapter03P1/"
-    weight = 6
+[[menu.main]]
+name = "Chapter 02, Part 2"
+pageRef = "/Chapter02P2"
+weight = 5
 
-  [[menu.main]]
-    name = "Chapter03 P2"
-    url = "/Chapter03P2/"
-    weight = 7
+[[menu.main]]
+name = "Chapter 03, Part 1"
+pageRef = "/Chapter03P1"
+weight = 6
 
-  [[menu.main]]
-    name = "Chapter04 P1"
-    url = "/Chapter04P1/"
-    weight = 8
+[[menu.main]]
+name = "Chapter 03, Part 2"
+pageRef = "/Chapter03P2"
+weight = 7
 
-  [[menu.main]]
-    name = "Chapter04 P2"
-    url = "/Chapter04P2/"
-    weight = 9
+[[menu.main]]
+name = "Chapter 04, Part 1"
+pageRef = "/Chapter04P1"
+weight = 8
 
-  [[menu.main]]
-    name = "Chapter07"
-    url = "/Chapter07/"
-    weight = 10
+[[menu.main]]
+name = "Chapter 04, Part 2"
+pageRef = "/Chapter04P2"
+weight = 9
 
-  [[menu.main]]
-    name = "Chapter08"
-    url = "/Chapter08/"
-    weight = 11
+[[menu.main]]
+name = "Chapter 07"
+pageRef = "/Chapter07"
+weight = 10
 
-  [[menu.main]]
-    name = "Chapter09"
-    url = "/Chapter09/"
-    weight = 12
+[[menu.main]]
+name = "Chapter 08"
+pageRef = "/Chapter08"
+weight = 11
 
-  [[menu.main]]
-    name = "Chapter11"
-    url = "/Chapter11/"
-    weight = 13
+[[menu.main]]
+name = "Chapter 09"
+pageRef = "/Chapter09"
+weight = 12
 
-  [[menu.main]]
-    name = "Chapter13"
-    url = "/Chapter13/"
-    weight = 14
+[[menu.main]]
+name = "Chapter 11"
+pageRef = "/Chapter11"
+weight = 13
 
-  
+[[menu.main]]
+name = "Chapter 13"
+pageRef = "/Chapter13"
+weight = 14
