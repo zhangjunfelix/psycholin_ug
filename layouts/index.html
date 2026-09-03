@@ -1,18 +1,56 @@
-{{/* Use the theme's base template and replace the main block */}}
-{{ define "main" }}
+<!DOCTYPE html>
+<html>
 
-  {{/* Pick which sections appear on the homepage; falls back to "post" */}}
-  {{ $sections := or .Site.Params.mainSections (slice "post") }}
+	{{ partial "header.html" . }}
 
-  {{/* Build a paginator over the chosen sections */}}
-  {{ $p := .Paginate (where .Site.RegularPages "Type" "in" $sections) }}
+	<body>
+		<div class="content">
 
-  {{/* Render each page using its summary template (theme-provided) */}}
-  {{ range $p.Pages }}
-    {{ .Render "summary" }}
-  {{ end }}
+			{{ partial "head.html" . }}
 
-  {{/* Use Hugo's internal pagination UI (no custom template needed) */}}
-  {{ template "_internal/pagination.html" . }}
+			<main class="list">
 
-{{ end }}
+				<div class="site-description">
+					{{- if isset .Site.Params "subtitle" -}}
+					<p>{{ .Site.Params.Subtitle | .Page.RenderString }}</p>
+					{{- end -}}
+				</div>
+
+				{{ .Content }}
+
+				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+
+				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
+
+				{{ range $paginator.Pages }}
+
+				<section class="list-item">
+					<h1 class="title">
+						<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+					</h1>
+
+					<time>
+						{{ dateFormat ":date_medium" .Date }}
+						{{ if .Draft }}
+						<span class="draft-label">DRAFT</span>
+						{{ end }}
+					</time>
+
+					<br>
+					{{ template "partials/pagedescription.html" . }}
+
+					<a class="readmore" href="{{ .RelPermalink }}">
+						Read more ⟶
+					</a>
+				</section>
+
+				{{ end }}
+
+			</main>
+
+			{{ partial "footer.html" . }}
+
+		</div>
+	</body>
+
+</html>
