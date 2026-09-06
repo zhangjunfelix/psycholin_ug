@@ -10,7 +10,7 @@ weight = 11
 *Key Focus: Collaboration, Gricean Maxims, Common Ground, & Audience Design*  
 
 - **Traxler (2nd ed.), Chapter 8**
-[Link to Chapter 8](/psycholinguistics/pdfs/C8.pdf)  
+[Link to Chapter 8](/psycholin_ug/pdfs/C8.pdf)  
 
 
 ## Overview

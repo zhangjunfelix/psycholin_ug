@@ -14,11 +14,11 @@ weight = 8
 
 ## 📖 Required Reading
 - **Chapter 4** from *Introduction to Psycholinguistics: Understanding Language Science* (2nd ed.) by Matthew Traxler.    
-[Link to Chapter 4](/psycholinguistics/pdfs/C4.pdf)
+[Link to Chapter 4](/psycholin_ug/pdfs/C4.pdf)
 
 
-## 📖 Classroom Notes 
-[Link to Noyrd](/psycholinguistics/pdfs/Chapter4P1notes.pdf)
+## 📖 Class Notes 
+[Link to Notes](/psycholin_ug/pdfs/Chapter4P1notes.pdf)
 
 
 ---

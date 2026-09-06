@@ -33,13 +33,13 @@ After studying this chapter, you should be able to:
 ## 📖 Required Reading
 
 - **Traxler (2nd ed.), Chapter 2, pp. 39–50** — *Speech Production & Comprehension* (production focus for Week 2).   
-[Link to Chapter 2](/psycholinguistics/pdfs/C2.pdf)   
+[Link to Chapter 2](/psycholin_ug/pdfs/C2.pdf)   
     - speech production
     - speech errors
     - Tip-of-the-tongue experiences
     - Picture-naming and picture-word interference studies
 
-[Levelt_1999](/psycholinguistics/pdfs/Levelt_1999.pdf)
+[Levelt_1999](/psycholin_ug/pdfs/Levelt_1999.pdf)
 
 ---
 

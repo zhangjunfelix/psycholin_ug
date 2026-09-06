@@ -12,7 +12,7 @@ weight = 10
 
 ## 📖 Required Reading
 - **Chapter 7** from *Introduction to Psycholinguistics: Understanding Language Science* (2nd ed.) by Matthew Traxler.    
-[Link to Chapter 7](/psycholinguistics/pdfs/C7.pdf)  
+[Link to Chapter 7](/psycholin_ug/pdfs/C7.pdf)  
 
 
 ---

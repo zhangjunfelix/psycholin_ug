@@ -11,7 +11,7 @@ weight = 12
 
 
 - **Traxler (2nd ed.), Chapter 9**
-[Link to Chapter 9](/psycholinguistics/pdfs/C9.pdf)  
+[Link to Chapter 9](/psycholin_ug/pdfs/C9.pdf)  
 
 ## Overview
 This chapter explores language development from prenatal stages through early childhood, examining how infants learn to perceive speech sounds, segment words from continuous speech, acquire word meanings, and develop grammatical structures. We investigate the interplay between innate capacities and environmental learning, addressing fundamental questions about how children accomplish the remarkable feat of language acquisition.

@@ -10,8 +10,8 @@ weight = 9
 *Key Focus: Argument Structure, Parsing Model Limitations, & Long-Distance Dependencies*  
 
 
-## 📖 Classroom Notes 
-[Link to Noyrd](/psycholinguistics/pdfs/Chapter4P2notes.pdf)
+## 📖 Class Notes 
+[Link to Notes](/psycholin_ug/pdfs/Chapter4P2notes.pdf)
 
 
 ## Overview  
