@@ -8,9 +8,9 @@
 }
 html {
   color: #232333;
-  font-family: 'Roboto Mono', monospace;
-  font-size: 15px;
-  line-height: 1.6em;
+  font-family: 'Inter', system-ui;
+  font-size: 17px;
+  line-height: 1.2em;
 }
 body{
   display: block;
@@ -26,7 +26,7 @@ body{
 }
 
 p {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Inter', sans-serif;
   line-height: 1.5;
 }
 
@@ -101,6 +101,7 @@ figure h4::before {
 code {
   background-color: #f1f1f1;
   padding: .1em .2em;
+  font-family: 'Inter', monospace;
 }
 
 pre {
@@ -108,6 +109,7 @@ pre {
   line-height: 1.4;
   overflow-x: auto;
   padding: 1em;
+  font-family: 'Inter', monospace;
 }
 
 .highlight pre ::selection {
@@ -138,14 +140,14 @@ header {
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 1em 0;
-  line-height: 2.5em;
+  line-height: 2.2em;
 }
 
 header .main {
   font-size: 1.5rem;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   margin-top: 2em;
 }
 
@@ -231,7 +233,7 @@ article .title {
 }
 
 .callout p {
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Inter', monospace;
   margin: 0;
 }
 
@@ -373,21 +375,135 @@ color: whitesmoke ;
   color: #fff;
 }
 
-/* table */
+/* Table - Flexible & Responsive */
 table {
   border-spacing: 0;
   border-collapse: collapse;
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1.5em 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
 }
 
-table th{
-  padding: 6px 13px;
-  border: 1px solid #dfe2e5;
-  font-size: large;
+table thead {
+  background-color: #f5f7fa;
+  border-bottom: 2px solid #dfe2e5;
 }
 
-table td{
-  padding: 6px 13px;
+table th {
+  padding: 10px 16px;
   border: 1px solid #dfe2e5;
+  font-weight: 600;
+  text-align: left;
+  background-color: #f5f7fa;
+  color: #232333;
+  white-space: nowrap;
+}
+
+table td {
+  padding: 10px 16px;
+  border: 1px solid #dfe2e5;
+  vertical-align: top;
+}
+
+/* Alternating row colors for better readability */
+table tbody tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+table tbody tr:hover {
+  background-color: #eef2f7;
+}
+
+/* Responsive: Stack on small screens */
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+    display: block;
+    width: 100%;
+  }
+
+  table thead {
+    display: none;
+  }
+
+  table tbody {
+    display: block;
+    width: 100%;
+  }
+
+  table tr {
+    display: block;
+    margin-bottom: 1.5rem;
+    border: 1px solid #dfe2e5;
+    border-radius: 4px;
+    padding: 0.5rem;
+    background-color: #fff !important;
+  }
+
+  table td {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    border: none;
+    border-bottom: 1px solid #eee;
+    text-align: right;
+    font-size: 0.9rem;
+  }
+
+  table td:last-child {
+    border-bottom: 0;
+  }
+
+  /* Add data-label attribute to cells for labels on mobile */
+  table td::before {
+    content: attr(data-label);
+    font-weight: 600;
+    text-align: left;
+    margin-right: 1rem;
+    color: #555;
+    font-size: 0.85rem;
+  }
+
+  /* Remove hover effect on mobile */
+  table tbody tr:hover {
+    background-color: #fff !important;
+  }
+
+  /* Keep alternating on mobile */
+  table tr:nth-child(even) {
+    background-color: #fff !important;
+  }
+}
+
+/* Compact table variant - use class 'table-compact' for tighter spacing */
+table.table-compact th,
+table.table-compact td {
+  padding: 4px 10px;
+  font-size: 0.9rem;
+}
+
+table.table-compact {
+  font-size: 0.9rem;
+}
+
+/* Striped variant - use class 'table-striped' for stronger stripes */
+table.table-striped tbody tr:nth-child(even) {
+  background-color: #e9ecef;
+}
+
+/* Borderless variant - use class 'table-borderless' */
+table.table-borderless th,
+table.table-borderless td {
+  border: none;
+}
+
+table.table-borderless thead {
+  border-bottom: 2px solid #dfe2e5;
 }
 
 .feather {
