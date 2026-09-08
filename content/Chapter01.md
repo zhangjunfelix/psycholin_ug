@@ -1,6 +1,6 @@
 +++
 title = "Chapter 1 What is Psycholinguistics?"
-date = "2025-04-25T10:03:44-04:00"
+date = "2026-09-07T10:03:44-04:00"
 draft = false
 weight = 3
 +++

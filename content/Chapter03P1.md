@@ -1,6 +1,6 @@
 +++
 title = "Chapter 3 Word Representation & Lexical Semantics"
-date = "2025-05-15T10:03:44-04:00"
+date = "2026-09-28T10:03:44-04:00"
 draft = false
 weight = 6
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Chapter 3 Lexical Access & Lexical Ambiguity Resolution"
-date = "2025-05-19T10:03:44-04:00"
+date = "2026-10-11T10:03:44-04:00"
 draft = false
 weight = 7
 +++
