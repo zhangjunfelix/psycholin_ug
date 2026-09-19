@@ -31,61 +31,66 @@ pageRef = "/syllabus"
 weight = 2
 
 [[menu.main]]
+name = "Questionset 1"
+pageRef = "/qs1"
+weight = 3
+
+[[menu.main]]
 name = "Chapter 01"
 pageRef = "/Chapter01"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Chapter 02, Part 1"
 pageRef = "/Chapter02P1"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Chapter 02, Part 2"
 pageRef = "/Chapter02P2"
-weight = 5
+weight = 6
 
 [[menu.main]]
 name = "Chapter 03, Part 1"
 pageRef = "/Chapter03P1"
-weight = 6
+weight = 7
 
 [[menu.main]]
 name = "Chapter 03, Part 2"
 pageRef = "/Chapter03P2"
-weight = 7
+weight = 8
 
 [[menu.main]]
 name = "Chapter 04, Part 1"
 pageRef = "/Chapter04P1"
-weight = 8
+weight = 9
 
 [[menu.main]]
 name = "Chapter 04, Part 2"
 pageRef = "/Chapter04P2"
-weight = 9
+weight = 10
 
 [[menu.main]]
 name = "Chapter 07"
 pageRef = "/Chapter07"
-weight = 10
+weight = 11
 
 [[menu.main]]
 name = "Chapter 08"
 pageRef = "/Chapter08"
-weight = 11
+weight = 12
 
 [[menu.main]]
 name = "Chapter 09"
 pageRef = "/Chapter09"
-weight = 12
+weight = 13
 
 [[menu.main]]
 name = "Chapter 11"
 pageRef = "/Chapter11"
-weight = 13
+weight = 14
 
 [[menu.main]]
 name = "Chapter 13"
 pageRef = "/Chapter13"
-weight = 14
+weight = 15

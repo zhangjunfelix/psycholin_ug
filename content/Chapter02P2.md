@@ -1,6 +1,6 @@
 +++
 title = "Chapter 2 Part 2: Speech Planning & Errors II"
-date = "2026-09-21T10:03:44-04:00"
+date = "2026-09-04T10:03:44-04:00"
 draft = false
 weight = 5
 +++
