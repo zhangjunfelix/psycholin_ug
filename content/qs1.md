@@ -1,23 +1,27 @@
 ---
-title: "Hands-on Project: Designing a Psycholinguistic Experiment"
+title: "Hands-on Project: Building a Psycholinguistic Experiment"
 weight: 20
-tags: ["experiment design", "psycholinguistics", "research methods"]
-summary: "A hands-on project where students design and implement a simple psycholinguistic experiment."
+tags: ["psycholinguistics", "experiment", "research methods", "hands-on practice"]
+summary: "A hands-on project in which students build and implement a simple psycholinguistic experiment."
 ---
 
-# 🧪 Hands-on Project: Designing a Psycholinguistic Experiment
+# 🧪 Hands-on Project: Building a Psycholinguistic Experiment
 
 ## Overview
 
-Psycholinguistics is an experimental science. Researchers design experiments to investigate how people **produce, understand, and learn language**.
+Psycholinguistics is an experimental science. In this project, you will gain hands-on experience by **building a simple psycholinguistic experiment** using an experimental platform or software.
 
-In this project, you will design and create a **small-scale psycholinguistic experiment** based on topics discussed in this course.
+You do **not** need to develop an original research question or invent a completely new experiment.
 
-The goal is not to conduct a complete research study. Instead, you will learn how psycholinguists:
+Instead, you may:
 
-> **Theory → Research Question → Experiment Design → Data Collection → Interpretation**
+- reproduce or simplify an experiment from a **published research article**;
+- use experimental materials from an existing study;
+- adapt an existing experiment to a **different language**;
+- adapt the materials to a **different linguistic level or phenomenon**;
+- modify an existing paradigm while keeping its basic experimental logic.
 
-You will also gain hands-on experience using experimental platforms and software.
+The main goal is to understand **how a psycholinguistic experiment works** and to gain practical experience implementing one.
 
 ---
 
@@ -25,12 +29,12 @@ You will also gain hands-on experience using experimental platforms and software
 
 By completing this project, you will learn how to:
 
-- develop a psycholinguistic research question;
-- formulate a testable hypothesis;
-- design a simple experiment;
-- create experimental materials;
-- use software to implement an experimental task;
-- understand basic experimental measures (e.g., accuracy, ratings, response times).
+- understand the purpose and logic of a psycholinguistic experiment;
+- identify the research question and hypotheses behind an experiment;
+- recognize experimental conditions, variables, and measures;
+- prepare experimental materials and trials;
+- use experimental software or online platforms;
+- build and test a working experimental task.
 
 ---
 
@@ -38,253 +42,278 @@ By completing this project, you will learn how to:
 
 You will work in groups of **2–3 students**.
 
-With approximately 44 students, the class will have around **14–15 projects**.
+All group members should contribute to:
 
-Each group should make sure that all members contribute to:
-
-- developing the research question;
-- designing the experiment;
-- preparing materials;
+- understanding the original experiment;
+- preparing or adapting the materials;
 - learning the software;
+- building and testing the experiment;
 - presenting the final project.
 
-Possible responsibilities include:
-
-- **Research design:** theory, research question, hypothesis
-- **Materials:** stimuli, instructions, practice trials
-- **Implementation:** experiment building and testing
-- **Presentation:** explaining and demonstrating the experiment
-
-However, all group members should understand the complete experiment.
+Even if different members take responsibility for different parts, **everyone should understand the complete experiment**.
 
 ---
 
-# 🧠 Project Requirements
+# 🧠 Choosing an Experiment
 
-Each group will create **one simple psycholinguistic experiment**.
+Your experiment should be related to a topic covered in this course.
 
-Your experiment should include:
+Possible areas include:
 
-## 1. Research Question
+- speech production;
+- speech perception;
+- lexical access and word processing;
+- sentence processing;
+- discourse processing;
+- reference and dialogue;
+- pragmatic inferencing;
+- language development;
+- bilingual language processing.
 
-Choose a question related to language processing.
+Possible experimental tasks include:
 
-Examples:
+- picture naming;
+- phoneme identification;
+- lexical decision;
+- semantic priming;
+- grammaticality judgment;
+- acceptability rating;
+- interpretation judgment;
+- picture identification;
+- self-paced reading;
+- reference resolution;
+- scalar implicature judgment;
+- indirect request interpretation;
+- word learning;
+- Stroop-style tasks.
 
-- How do people recognize words?
-- How does context influence sentence comprehension?
-- How do listeners resolve ambiguity?
-- How do people interpret indirect meanings?
+You may choose an experiment discussed in the textbook, in class, or in a published research article.
 
 ---
 
-## 2. Hypothesis
+# 🔄 Replication and Adaptation
 
-State a clear prediction.
+You do **not** need to create an entirely new experiment.
 
-Example:
+A good project may simply reproduce the basic design of an existing study.
+
+You may also adapt an existing experiment.
+
+For example:
+
+### Different Language
+
+A published experiment conducted in English could be adapted to:
+
+> Mandarin Chinese
+
+### Different Linguistic Materials
+
+A paradigm originally using:
+
+> words
+
+could potentially be adapted to:
+
+> phrases or sentences
+
+### Different Linguistic Contrast
+
+You might keep the experimental task but change the linguistic feature being tested.
+
+For example:
+
+> original study: high-frequency vs. low-frequency words  
+> adapted project: concrete vs. abstract words
+
+Any adaptation should preserve a clear connection between the **experimental manipulation** and the **phenomenon being investigated**.
+
+---
+
+# ❓ Research Question and Hypotheses
+
+Although you do not need to develop an original research question, your project must clearly state:
+
+1. **the research question of the experiment;**
+2. **the hypothesis or hypotheses;**
+3. **what is manipulated;**
+4. **what is measured.**
+
+This is important because building an experiment requires understanding **why each part of the experiment is there**.
+
+For example:
+
+**Research Question**
+
+> Does word frequency affect lexical access?
+
+**Hypothesis**
 
 > High-frequency words will be recognized faster than low-frequency words.
 
----
+**Manipulation**
 
-## 3. Experimental Task
+> High-frequency vs. low-frequency words
 
-You may design any appropriate psycholinguistic task.
+**Measure**
 
-Possible examples:
+> Reaction time in a lexical decision task
 
-### Speech Production
-
-- picture naming task
-- speech error analysis
-
-Possible topics:
-- lexical retrieval
-- word production
-- speech planning
+If your experiment is based on a published study, you may use the research question and hypotheses from that study.
 
 ---
 
-### Speech Perception
+# 💻 Experimental Platforms
 
-- phoneme identification task
-- spoken word recognition task
+You may choose any suitable experimental platform.
 
-Possible topics:
-- sound perception
-- word recognition
-- language experience
+| Platform |
+|---|
+| **jsPsych** |
+| **OpenSesame** |
+| **PsychoPy / Pavlovia** |
+| **PCIbex** |
+| **Lab.js** |
+| **Gorilla** |
 
----
+You are encouraged to explore these platforms **as early as possible**.
 
-### Word Processing
-
-- lexical decision task
-- semantic priming task
-
-Possible topics:
-- lexical access
-- word frequency
-- semantic activation
+You do not need previous programming experience. Choose a platform that your group feels comfortable learning.
 
 ---
 
-### Sentence Processing
+# 📋 What You Need to Do
 
-- grammaticality judgment task
-- acceptability rating task
-- self-paced reading task
+## Step 1: Choose an Experiment
 
-Possible topics:
+Find an experiment that interests your group.
 
-- ambiguity resolution
-- syntactic processing
-- prediction during comprehension
+It may come from:
 
----
-
-### Discourse and Pragmatics
-
-- inference judgment task
-- reference resolution task
-- scalar implicature task
-
-Possible topics:
-
-- discourse understanding
-- common ground
-- pragmatic inference
+- the textbook;
+- a study discussed in class;
+- a published research article;
+- another reliable academic source.
 
 ---
 
-### Language Development and Bilingual Processing
+## Step 2: Understand the Experiment
 
-Possible tasks:
+Identify:
 
-- word learning task
-- artificial grammar learning task
-- Stroop task
-- cross-language lexical decision task
-
----
-
-# 💻 Recommended Platforms and Software
-
-You may choose any suitable platform.
-
-Recommended tools include:
-
-| Platform | Suitable Tasks |
-|---|---|
-| **jsPsych** | reaction time tasks, lexical decision, self-paced reading |
-| **OpenSesame** | behavioral experiments, reaction time tasks |
-| **PsychoPy / Pavlovia** | visual experiments, speech tasks, reaction-time tasks |
-| **PCIbex** | reading experiments, sentence-processing tasks |
-| **Lab.js** | online behavioral experiments |
-| **Gorilla** | online experiments and behavioral tasks |
-| **Qualtrics** | rating tasks, judgment tasks, questionnaires |
-
-Choose the simplest tool that can answer your research question.
-
-You do not need previous programming experience.
+- the research question;
+- the hypothesis;
+- the experimental conditions;
+- the independent variable;
+- the dependent measure;
+- what participants are asked to do.
 
 ---
 
-# 📋 Project Steps
+## Step 3: Prepare the Materials
 
-## Step 1: Choose a Topic
+You may:
 
-Select a psycholinguistic phenomenon from the course.
+- use materials from the original study;
+- simplify them;
+- create comparable new materials;
+- translate or adapt them to another language;
+- modify them for a related linguistic phenomenon.
 
-## Step 2: Design the Experiment
-
-Decide:
-
-- research question;
-- hypothesis;
-- independent variable;
-- dependent measure;
-- participant task.
-
-## Step 3: Create Materials
-
-Prepare:
-
-- instructions;
-- stimuli;
-- practice trials;
-- experimental trials.
+---
 
 ## Step 4: Build the Experiment
 
-Use your selected platform to create a working prototype.
+Use your chosen platform to create a **working version** of the task.
+
+Your experiment should include, where appropriate:
+
+- instructions;
+- practice trials;
+- experimental trials;
+- response options;
+- data recording.
+
+---
 
 ## Step 5: Pilot Test
 
-Ask classmates to try your experiment.
+Ask classmates or friends to try your experiment.
 
 Check:
 
-- Are instructions clear?
-- Does the task work?
+- Are the instructions clear?
+- Does the experiment run correctly?
+- Are the stimuli displayed as intended?
 - Are responses recorded correctly?
 
-Revise your experiment based on feedback.
+Revise the experiment if necessary.
 
 ---
 
 # 📄 Final Submission
 
-Submit:
+Each group should submit:
 
-## 1. Research Question
+### 1. Source of the Experiment
 
-What psycholinguistic phenomenon are you investigating?
+Provide the published article or source on which your experiment is based.
 
-## 2. Theoretical Background
+### 2. Research Question and Hypotheses
 
-Briefly explain the relevant concept from the course.
+Briefly state:
 
-## 3. Experimental Design
+- what the experiment investigates;
+- what it predicts.
 
-Describe:
+### 3. Experimental Design
 
-- hypothesis;
-- participants;
+Briefly describe:
+
+- experimental conditions;
 - materials;
 - procedure;
-- variables;
-- measures.
+- independent variable(s);
+- dependent measure(s).
 
-## 4. Experiment Demonstration
+### 4. Your Adaptation
+
+If you modified the original experiment, explain briefly:
+
+- what you changed;
+- why you changed it.
+
+### 5. Working Experiment
 
 Provide:
 
 - a working link, or
-- screenshots/files of your experiment.
+- the experiment files.
 
-## 5. Reflection
+Screenshots may also be included.
+
+### 6. Reflection
 
 Briefly discuss:
 
-- What did you learn?
-- What challenges did you encounter?
-- How would you improve the experiment?
+- What did you learn from building the experiment?
+- What difficulties did you encounter?
+- What would you improve?
 
 ---
 
 # 🎤 Final Presentation
 
-Each group will demonstrate their experiment.
+Each group will briefly introduce and demonstrate its experiment.
 
-Presentation should include:
+Your presentation should include:
 
-1. Research question
-2. Theoretical motivation
-3. Experimental design
-4. Demonstration of the task
-5. Reflection
+1. the research question;
+2. the hypothesis;
+3. the source or original study;
+4. the experimental design;
+5. a short demonstration;
+6. what your group learned.
 
 All group members should participate.
 
@@ -292,14 +321,12 @@ All group members should participate.
 
 # ⭐ Important Reminder
 
-This project is **not a programming competition**.
+This project is **not about inventing a new theory or a completely original experiment**.
 
-A simple experiment with:
+It is also **not a programming competition**.
 
-- a clear research question;
-- a logical design;
-- carefully prepared materials;
+The main goal is to understand how a psycholinguistic experiment connects:
 
-is better than a complicated experiment without a clear theoretical purpose.
+> **Research Question → Hypothesis → Experimental Manipulation → Participant Response → Evidence**
 
-The goal is to experience how psycholinguists design experiments.
+A simple, well-understood experiment is better than a complicated experiment that your group cannot clearly explain.
