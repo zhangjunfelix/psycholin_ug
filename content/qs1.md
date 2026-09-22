@@ -40,7 +40,7 @@ By completing this project, you will learn how to:
 
 # 👥 Group Organization
 
-You will work in groups of **2–3 students**.
+You will work in groups of **2 students**.
 
 All group members should contribute to:
 
