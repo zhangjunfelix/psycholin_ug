@@ -36,6 +36,11 @@ pageRef = "/qs1"
 weight = 3
 
 [[menu.main]]
+name = "Preclass Exp"
+pageRef = "/exppreclass"
+weight = 3
+
+[[menu.main]]
 name = "Chapter 01"
 pageRef = "/Chapter01"
 weight = 4
